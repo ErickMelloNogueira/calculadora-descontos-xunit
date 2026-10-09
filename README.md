@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a atividade de Garantia da Qualidade de Software.
 
-## Tecnologias
+## Tecnologias utilizadas
 - C#
 - .NET 10
 - xUnit
